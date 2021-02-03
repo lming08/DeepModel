@@ -1,0 +1,184 @@
+cont	agentCate_ctr1days	1
+cont	agentCate_ctr2days	2
+cont	agentCate_ctr3days	3
+cont	agentCate_ctr7days	4
+cont	agentCate_pvcvr1days	5
+cont	agentCate_pvcvr2days	6
+cont	agentCate_pvcvr3days	7
+cont	agentCate_pvcvr7days	8
+cont	agentCateposId_ctr1days	9
+cont	agentCateposId_ctr2days	10
+cont	agentCateposId_ctr3days	11
+cont	agentCateposId_ctr7days	12
+cont	agentCateposId_pvcvr1days	13
+cont	agentCateposId_pvcvr2days	14
+cont	agentCateposId_pvcvr3days	15
+cont	agentCateposId_pvcvr7days	16
+cont	agentId_ctr1days	17
+cont	agentId_ctr2days	18
+cont	agentId_ctr3days	19
+cont	agentId_ctr7days	20
+cont	agentId_pvcvr1days	21
+cont	agentId_pvcvr2days	22
+cont	agentId_pvcvr3days	23
+cont	agentId_pvcvr7days	24
+cont	agentIdposId_ctr1days	25
+cont	agentIdposId_ctr2days	26
+cont	agentIdposId_ctr3days	27
+cont	agentIdposId_ctr7days	28
+cont	agentIdposId_pvcvr1days	29
+cont	agentIdposId_pvcvr2days	30
+cont	agentIdposId_pvcvr3days	31
+cont	agentIdposId_pvcvr7days	32
+cont	campaignId_ctr1days	33
+cont	campaignId_ctr2days	34
+cont	campaignId_ctr3days	35
+cont	campaignId_ctr7days	36
+cont	campaignId_pvcvr1days	37
+cont	campaignId_pvcvr2days	38
+cont	campaignId_pvcvr3days	39
+cont	campaignId_pvcvr7days	40
+cont	creativeId_ctr1days	41
+cont	creativeId_ctr2days	42
+cont	creativeId_ctr3days	43
+cont	creativeId_ctr7days	44
+cont	creativeId_pvcvr1days	45
+cont	creativeId_pvcvr2days	46
+cont	creativeId_pvcvr3days	47
+cont	creativeId_pvcvr7days	48
+cont	creativeIdposId_ctr1days	49
+cont	creativeIdposId_ctr2days	50
+cont	creativeIdposId_ctr3days	51
+cont	creativeIdposId_ctr7days	52
+cont	creativeIdposId_pvcvr1days	53
+cont	creativeIdposId_pvcvr2days	54
+cont	creativeIdposId_pvcvr3days	55
+cont	creativeIdposId_pvcvr7days	56
+cont	deviceIdck	57
+cont	deviceIdcv	58
+cont	deviceIdpv	59
+cont	devicePlatform_ctr1days	60
+cont	devicePlatform_ctr2days	61
+cont	devicePlatform_ctr3days	62
+cont	devicePlatform_ctr7days	63
+cont	devicePlatform_pvcvr1days	64
+cont	devicePlatform_pvcvr2days	65
+cont	devicePlatform_pvcvr3days	66
+cont	devicePlatform_pvcvr7days	67
+cont	imeiOrigin_ctr1days	68
+cont	imeiOrigin_ctr2days	69
+cont	imeiOrigin_ctr3days	70
+cont	imeiOrigin_ctr7days	71
+cont	imeiOrigin_pvcvr1days	72
+cont	imeiOrigin_pvcvr2days	73
+cont	imeiOrigin_pvcvr3days	74
+cont	imeiOrigin_pvcvr7days	75
+cont	ip1_ctr1days	76
+cont	ip1_ctr2days	77
+cont	ip1_ctr3days	78
+cont	ip1_ctr7days	79
+cont	ip1_pvcvr1days	80
+cont	ip1_pvcvr2days	81
+cont	ip1_pvcvr3days	82
+cont	ip1_pvcvr7days	83
+cont	ip2_ctr1days	84
+cont	ip2_ctr2days	85
+cont	ip2_ctr3days	86
+cont	ip2_ctr7days	87
+cont	ip2_pvcvr1days	88
+cont	ip2_pvcvr2days	89
+cont	ip2_pvcvr3days	90
+cont	ip2_pvcvr7days	91
+cont	ip3_ctr1days	92
+cont	ip3_ctr2days	93
+cont	ip3_ctr3days	94
+cont	ip3_ctr7days	95
+cont	ip3_pvcvr1days	96
+cont	ip3_pvcvr2days	97
+cont	ip3_pvcvr3days	98
+cont	ip3_pvcvr7days	99
+cont	ip_ctr1days	100
+cont	ip_ctr2days	101
+cont	ip_ctr3days	102
+cont	ip_ctr7days	103
+cont	ip_pvcvr1days	104
+cont	ip_pvcvr2days	105
+cont	ip_pvcvr3days	106
+cont	ip_pvcvr7days	107
+cont	osProduct_ctr1days	108
+cont	osProduct_ctr2days	109
+cont	osProduct_ctr3days	110
+cont	osProduct_ctr7days	111
+cont	osProduct_pvcvr1days	112
+cont	osProduct_pvcvr2days	113
+cont	osProduct_pvcvr3days	114
+cont	osProduct_pvcvr7days	115
+cont	osVersion_ctr1days	116
+cont	osVersion_ctr2days	117
+cont	osVersion_ctr3days	118
+cont	osVersion_ctr7days	119
+cont	osVersion_pvcvr1days	120
+cont	osVersion_pvcvr2days	121
+cont	osVersion_pvcvr3days	122
+cont	osVersion_pvcvr7days	123
+cont	posId_ctr1days	124
+cont	posId_ctr2days	125
+cont	posId_ctr3days	126
+cont	posId_ctr7days	127
+cont	posId_pvcvr1days	128
+cont	posId_pvcvr2days	129
+cont	posId_pvcvr3days	130
+cont	posId_pvcvr7days	131
+cont	regionCode_cityType_ctr1days	132
+cont	regionCode_cityType_ctr2days	133
+cont	regionCode_cityType_ctr3days	134
+cont	regionCode_cityType_ctr7days	135
+cont	regionCode_cityType_pvcvr1days	136
+cont	regionCode_cityType_pvcvr2days	137
+cont	regionCode_cityType_pvcvr3days	138
+cont	regionCode_cityType_pvcvr7days	139
+cont	regionCode_ctr1days	140
+cont	regionCode_ctr2days	141
+cont	regionCode_ctr3days	142
+cont	regionCode_ctr7days	143
+cont	regionCode_province_ctr1days	144
+cont	regionCode_province_ctr2days	145
+cont	regionCode_province_ctr3days	146
+cont	regionCode_province_ctr7days	147
+cont	regionCode_province_pvcvr1days	148
+cont	regionCode_province_pvcvr2days	149
+cont	regionCode_province_pvcvr3days	150
+cont	regionCode_province_pvcvr7days	151
+cont	regionCode_pvcvr1days	152
+cont	regionCode_pvcvr2days	153
+cont	regionCode_pvcvr3days	154
+cont	regionCode_pvcvr7days	155
+cate	package_name	156	1
+cate	campaignId	157	1
+cate	ip	158	377
+cate	osProduct	159	535
+cate	agentId	160	1
+cate	creativeId	161	84
+cate	partOfDay	162	8
+cate	agentIdposId	163	46
+cate	regionCode	164	356
+cate	agentCateposId	165	46
+cate	isWeekend	166	2
+cate	agentIdplatformId	167	12
+cate	dayOfWeek	168	7
+cate	agentCate	169	1
+cate	ip2	170	2910
+cate	ip3	171	1699
+cate	ip1	172	59
+cate	regionCode_cityType	173	3
+cate	osVersion	174	106
+cate	devicePlatform	175	3
+cate	creativeIdplatformId	176	108
+cate	imeiOrigin	177	11
+cate	regionCode_province	178	32
+cate	creativeIdposId	179	126
+cate	agentCateplatformId	180	12
+cate	hourOfDay	181	19
+cate	model	182	816
+cate	os	183	129
+var	app_last	184	4712
